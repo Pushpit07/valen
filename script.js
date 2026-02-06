@@ -183,6 +183,6 @@
 
   // ===== Preload celebration GIF =====
   var preload = new Image();
-  preload.src = 'https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif';
+  preload.src = 'https://aayush-683.github.io/will-you-be-my-valentine/public/images/kiss.gif';
 
 })();
